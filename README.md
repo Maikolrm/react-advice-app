@@ -17,13 +17,13 @@
 
 #### Screenshots
 
-- Desktop
+##### Desktop
 ![Advice Desltop View](https://ik.imagekit.io/of8sk3s88sie/advice-generator/advice-desktop.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650304129271)
 
-- Desktop - Hover Effect
+##### Desktop - Hover Effect
 ![Advice Desltop View](https://ik.imagekit.io/of8sk3s88sie/advice-generator/advice-hover-effect.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650304129271)
 
-- Responsive View
+##### Responsive view
 ![Advice Desltop View](https://ik.imagekit.io/of8sk3s88sie/advice-generator/advice-responsive-view.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650304129271)
 
 [Live Site](https://hm-advice-app.netlify.app/)
